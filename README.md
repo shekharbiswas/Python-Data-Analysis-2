@@ -14,7 +14,7 @@ The instructor will guide step by step into the topics.
 ## Module 1
 
 - [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQtlFYQe6x68tezz7A1nYtRoorRfc9HDeg2n53EmhfavVK1GROZ4a8PjB43fUodCBpOyJeQhycq2N_m/pub?start=false&loop=false&delayms=3000&slide=id.g2e9327ae303_0_5)
-- [Rec](https://we.tl/t-sfmmWfJ2Bz) (download until 19.10)
+- [Rec](https://we.tl/t-zWEDgBKdHu) (download until 29.10)
 
 
 ## Module 2
