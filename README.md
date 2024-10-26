@@ -20,3 +20,7 @@ The instructor will guide step by step into the topics.
 ## Module 2
 - [Slides](https://docs.google.com/presentation/d/e/2PACX-1vT-ngou1cqhXE76cpDK8Dx8UtJonucNBU17_yIpkyD_Yxa8KUMcYSsU-pOLJqoBbxC6I81B9pdsn__L/pub?start=false&loop=false&delayms=3000&slide=id.g2e9327ae303_0_5)
 - [Code](https://colab.research.google.com/drive/1F1sOLJVeZHly4A-Wb2O-BLEXMWp78_BU#scrollTo=G4oq4Us2M3Y4)
+
+## Module 3
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTMfbDF_wRRp93ePDOC82IKZMbVXtHNzPn9iTN01u3I6iY5lLjptzAdd-JfU8ZfaT4LQ0lUmJfdywP2/pub?start=false&loop=false&delayms=3000&slide=id.g2e9327ae303_0_5)
+- [Code](https://colab.research.google.com/drive/1jSu_L19gjXdfOefctvfDuLyql2czhdgy?usp=sharing)
