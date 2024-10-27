@@ -9,7 +9,7 @@ It has wide applications in the field of Marketing, Business Intelligence, Risk 
 - Module 2: Exploratory Data Analysis (EDA) and Visualization.
 - Module 3: E-Commerce Data Analysis.
 
-These lectures are for both working IT professionals and university students.
+These lectures are for both IT / Tech. professionals and university students.
 
 ## Module 1
 
